@@ -1,0 +1,61 @@
+{
+  "code": 200,
+  "msg": "success",
+  "res": {
+    "page_count": 3,
+    "per_page": 10,
+    "current_page": 1,
+    "data": {
+      "class_id": 1,
+      "class_name": "金苹果一班",
+      "homework_list": [{
+        "id": "0001",
+        "course_text": "手工课",
+        "teacher_avatar": "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg",
+        "created_at": 1533746800,
+        "image_list": [
+          "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg"
+        ],
+        "desc": "周末干",
+        "finish_count": 301
+      },
+        {
+          "id": "0004",
+          "course_text": "游戏",
+          "teacher_avatar": "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg",
+          "created_at": 1533809924,
+          "image_list": [
+            "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+            "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+            "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg"
+          ],
+          "desc": "周末干",
+          "finish_count": 0
+        },
+        {
+          "id": "0005",
+          "course_text": "语文",
+          "teacher_avatar": "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg",
+          "created_at": 1533809924,
+          "image_list": [],
+          "desc": "周末干嘛？博物馆已经免费开放啦博物馆已经免费开放啦博物馆已经免费开放啦博物馆已经免费开放啦博物馆已经免费开放啦",
+          "finish_count": 2
+        },
+        {
+          "id": "0006",
+          "course_text": "拼音",
+          "teacher_avatar": "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+          "created_at": 1533809924,
+          "image_list": [
+            "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg"
+          ],
+          "desc": "周末干嘛？北京很多博物馆已经免费开放啦",
+          "finish_count": 2
+        }
+      ]
+    }
+
+  }
+}

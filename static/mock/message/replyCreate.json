@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "msg": "success",
+  "res": {
+    "message_id": 10,
+    "reply_content": "今天天气真好啊。。。",
+    "reply_at": 1509000000,
+    "reply_status": 1
+  }
+}

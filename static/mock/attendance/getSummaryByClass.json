@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "msg": "success",
+  "res": {
+    "class_name": "苹果一班",
+    "total_count": 100,
+    "on_count": 11,
+    "student_list": [
+      {
+        "id": 1,
+        "name": "李蓝宝"
+      }, {
+        "id": 2,
+        "name": "黑皮"
+      }, {
+        "id": 3,
+        "name": "柠檬"
+      }
+    ]
+  }
+}

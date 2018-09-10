@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "msg": "success",
+  "res": {
+    "id": 1,
+    "name": "胡爱贝",
+    "gender": "1",
+    "age": "3",
+    "guardian_name": "胡歌",
+    "mobile": "18200000000",
+    "desc": "这个孩子非常聪明，家住附近，推荐上幼儿园",
+    "recommend_by_name": "古天乐",
+    "created_at": 1536050073,
+    "status": "new",
+    "visit_list1": [],
+    "visit_list": [
+      {
+        "teacher_id": 1,
+        "teacher_name": "玛莎园长",
+        "visit_at": 1538050073,
+        "desc": "好。"
+      }, {
+        "teacher_id": 1,
+        "teacher_name": "玛莎园长",
+        "visit_at": 1537050073,
+        "desc": "学生符合条件，可以入学。"
+      }
+    ]
+  }
+}

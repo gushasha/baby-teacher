@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "msg": "success",
+  "res": {
+    "id": 1,
+    "name": "李蓝宝",
+    "avatar": "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+    "gender": "1",
+    "birthday": "2016-02-01",
+    "date_enter_school": "",
+    "school_name": "金苹果高新区",
+    "class_name": "金苹果一班",
+    "height": "110",
+    "weight": "30",
+    "family_relation": ""
+  }
+}

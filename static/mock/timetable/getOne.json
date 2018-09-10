@@ -1,0 +1,262 @@
+{
+  "code": 200,
+  "msg": "success",
+  "res": {
+    "class_id": 1,
+    "class_name": "苹果一班",
+    "timetable": [
+      {
+        "clock": {
+          "start": "8:00",
+          "end": "9:00"
+        },
+        "detail": [
+          {
+            "course_id": 0,
+            "course_name": ""
+          },
+          {
+            "course_id": 1,
+            "course_name": "语文"
+          },
+          {
+            "course_id": 2,
+            "course_name": "数学"
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          }
+        ]
+      },
+      {
+        "clock": {
+          "start": "11:00",
+          "end": "12:00"
+        },
+        "detail": [
+          {
+            "course_id": 3,
+            "course_name": "面向对象分析与设计"
+          },
+          {
+            "course_id": 1,
+            "course_name": "语文"
+          },
+          {
+            "course_id": 2,
+            "course_name": "数学"
+          },
+          {
+            "course_id": 3,
+            "course_name": "面向对象分析与设计"
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          },
+          {
+            "course_id": 3,
+            "course_name": "面向对象分析与设计"
+          },
+          {
+            "course_id": 4,
+            "course_name": "国学《弟子规》"
+          }
+        ]
+      },
+      {
+        "clock": {
+          "start": "14:00",
+          "end": "6:00"
+        },
+        "detail": [
+          {
+            "course_id": 5,
+            "course_name": "英语"
+          },
+          {
+            "course_id": 1,
+            "course_name": "语文"
+          },
+          {
+            "course_id": 2,
+            "course_name": "数学"
+          },
+          {
+            "course_id": 5,
+            "course_name": "英语"
+          },
+          {
+            "course_id": 2,
+            "course_name": "数学"
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          }
+        ]
+      },
+      {
+        "clock": {
+          "start": "14:00",
+          "end": "6:00"
+        },
+        "detail": [
+          {
+            "course_id": 5,
+            "course_name": "英语"
+          },
+          {
+            "course_id": 10,
+            "course_name": "计算机组成原理"
+          },
+          {
+            "course_id": 2,
+            "course_name": "数学"
+          },
+          {
+            "course_id": 5,
+            "course_name": "英语"
+          },
+          {
+            "course_id": 2,
+            "course_name": "数学"
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          }
+        ]
+      },
+      {
+        "clock": {
+          "start": "14:00",
+          "end": "6:00"
+        },
+        "detail": [
+          {
+            "course_id": 5,
+            "course_name": "英语"
+          },
+          {
+            "course_id": 1,
+            "course_name": "语文"
+          },
+          {
+            "course_id": 2,
+            "course_name": "数学"
+          },
+          {
+            "course_id": 5,
+            "course_name": "英语"
+          },
+          {
+            "course_id": 10,
+            "course_name": "计算机组成原理"
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          }
+        ]
+      },
+      {
+        "clock": {
+          "start": "14:00",
+          "end": "6:00"
+        },
+        "detail": [
+          {
+            "course_id": 5,
+            "course_name": "英语"
+          },
+          {
+            "course_id": 1,
+            "course_name": "语文"
+          },
+          {
+            "course_id": 2,
+            "course_name": "数学"
+          },
+          {
+            "course_id": 10,
+            "course_name": "计算机组成原理"
+          },
+          {
+            "course_id": 2,
+            "course_name": "数学"
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          }
+        ]
+      },
+      {
+        "clock": {
+          "start": "14:00",
+          "end": "6:00"
+        },
+        "detail": [
+          {
+            "course_id": 5,
+            "course_name": "英语"
+          },
+          {
+            "course_id": 1,
+            "course_name": "语文"
+          },
+          {
+            "course_id": 10,
+            "course_name": "计算机组成原理"
+          },
+          {
+            "course_id": 5,
+            "course_name": "英语"
+          },
+          {
+            "course_id": 2,
+            "course_name": "数学"
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          },
+          {
+            "course_id": 0,
+            "course_name": ""
+          }
+        ]
+      }
+    ]
+  }
+}

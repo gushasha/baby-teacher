@@ -1,0 +1,90 @@
+{
+  "code": 200,
+  "msg": "success",
+  "res": {
+    "school": [
+      {
+        "id": 1,
+        "name": "李羽"
+      }, {
+        "id": 2,
+        "name": "林墨雷"
+      }, {
+        "id": 3,
+        "name": "李雷"
+      }, {
+        "id": 4,
+        "name": "明晓"
+      }
+    ],
+    "classes": [
+      {
+        "id": "1",
+        "name": "🍎苹果一班",
+        "teacher_list" : [
+          {
+            "id": 1,
+            "name": "Tommy"
+          }, {
+            "id": 2,
+            "name": "Jerry"
+          }, {
+            "id": 3,
+            "name": "Abby"
+          }, {
+            "id": 4,
+            "name": "Yam"
+          }
+        ],
+        "guardian_list" : [
+          {
+            "id": 1,
+            "name": "AAA"
+          }, {
+            "id": 4,
+            "name": "BBB"
+          }, {
+            "id": 5,
+            "name": "CCC"
+          }, {
+            "id": 6,
+            "name": "DDD"
+          }
+        ]
+      }, {
+        "id": "2",
+        "name": "🍎苹果二班",
+        "teacher_list" : [
+          {
+            "id": 1,
+            "name": "AAA"
+          }, {
+            "id": 4,
+            "name": "BBB"
+          }, {
+            "id": 5,
+            "name": "CCC"
+          }, {
+            "id": 6,
+            "name": "DDD"
+          }
+        ],
+        "guardian_list" : [
+          {
+            "id": 1,
+            "name": "AAA"
+          }, {
+            "id": 4,
+            "name": "BBB"
+          }, {
+            "id": 5,
+            "name": "CCC"
+          }, {
+            "id": 6,
+            "name": "DDD"
+          }
+        ]
+      }
+    ]
+   }
+}

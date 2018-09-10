@@ -1,0 +1,53 @@
+{
+  "code": 200,
+  "msg": "success",
+  "res": {
+    "homework_info": {
+      "id": "0005",
+      "course_text": "语文",
+      "teacher_avatar": "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg",
+      "created_at": 1533809924,
+      "teacher_name": "胡歌",
+      "image_list": [],
+      "desc": "周末干嘛？博物馆已经免费开放啦博物馆已经免费开放啦博物馆已经免费开放啦博物馆已经免费开放啦博物馆已经免费开放啦",
+      "finish_count": 2,
+      "i_finished": false
+    },
+    "reply_list": [
+      {
+        "id": "0005",
+        "created_at": 1533809924,
+        "image_list": [],
+        "desc": "周末干嘛？博物馆已经免费开放啦博物馆已经免费开放啦博物馆已经免费开放啦博物馆已经免费开放啦博物馆已经免费开放啦",
+        "student_info": {
+          "id": 1,
+          "name": "李蓝宝"
+        },
+        "guardian_info": {
+          "id": 12,
+          "name": "Wil",
+          "avatar": "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg"
+        },
+        "family_relation": "粑粑"
+      }, {
+        "id": "0009",
+        "created_at": 1533809924,
+        "image_list": [
+          "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg",
+          "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg"
+        ],
+        "desc": "写完了。。",
+        "student_info": {
+          "id": 1,
+          "name": "李蓝宝"
+        },
+        "guardian_info": {
+          "id": 12,
+          "name": "Shakira",
+          "avatar": "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg"
+        },
+        "family_relation": "妈妈"
+      }
+    ]
+  }
+}

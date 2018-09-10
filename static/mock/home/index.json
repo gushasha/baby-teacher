@@ -1,0 +1,52 @@
+{
+  "code": 200,
+  "msg": "success",
+  "res": {
+    "user_info": {
+      "id": "0001",
+      "avatar": "",
+      "name": "胡歌",
+      "mobile": "18200538986",
+      "gender": 2,
+      "role_name": "园长",
+      "days_enter_school": "18"
+    },
+    "app_stats": {
+      "teacher": {
+        "bind_count": 19,
+        "unbind_count": 81
+      },
+      "student": {
+        "bind_count": 999,
+        "unbind_count": 82
+      }
+    },
+    "notice_list": [
+      {
+        "id": "0005",
+        "type": "school",
+        "created_at": 1533809924,
+        "teacher_name": "胡歌",
+        "teacher_avatar": "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg",
+        "title": "学生最爱的博物馆",
+        "image_list":[],
+        "desc": "周末干嘛？<p>博物馆已经免费开放啦</p><p>博物馆已经免费开放啦</p><p>博物馆已经免费开放啦</p><p>博物馆已经免费开放啦</p><p>博物馆已经免费开放啦</p>"
+      },
+      {
+        "id": "0006",
+        "type": "school",
+        "created_at": 1533809924,
+        "teacher_name": "胡歌",
+        "teacher_avatar": "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg",
+        "title": "最后一条。。。。",
+        "image_list":[
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg"
+        ],
+        "desc": "周末干嘛？北京很多博物馆已经免费开放啦"
+      }]
+  }
+}

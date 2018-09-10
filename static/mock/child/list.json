@@ -1,0 +1,33 @@
+{
+  "code": 200,
+  "msg": "success",
+  "res": {
+    "child_list": [
+      {
+        "id": "0001",
+        "avatar": "",
+        "name": "李蓝宝",
+        "gender": 2,
+        "days_enter_school": "180"
+      }, {
+        "id": "0002",
+        "avatar": "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+        "name": "李黑皮",
+        "gender": 2,
+        "days_enter_school": "100"
+      }, {
+        "id": "0003",
+        "avatar": "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+        "name": "柠檬",
+        "gender": 1,
+        "days_enter_school": "30"
+      }, {
+        "id": "0004",
+        "avatar": "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+        "name": "胡小歌",
+        "gender": 1,
+        "days_enter_school": "0"
+      }
+    ]
+  }
+}

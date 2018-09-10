@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "msg": "success",
+  "res": {
+    "total_count": 100,
+    "on_count": 11,
+    "class_list": [
+      {
+        "class_id": 1,
+        "class_name": "苹果一班",
+        "total_count": 60,
+        "on_count": 51
+      }, {
+        "class_id": 2,
+        "class_name": "苹果三班",
+        "total_count": 40,
+        "on_count": 40
+      }
+    ]
+  }
+}

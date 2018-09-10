@@ -1,0 +1,66 @@
+{
+  "code": 200,
+  "msg": "success",
+  "res": {
+    "page_count": 3,
+    "per_page": 10,
+    "current_page": 1,
+    "data1": [],
+    "data": [
+      {
+        "id": "0001",
+        "type": "class",
+        "created_at": 1533746800,
+        "teacher_name": "胡歌",
+        "teacher_avatar": "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg",
+        "title": "北京温泉排行榜",
+        "image_list":[
+          "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg"
+        ],
+        "desc": "周末干"
+      },
+      {
+        "id": "0004",
+        "type": "school",
+        "created_at": 1533809924,
+        "teacher_name": "胡歌",
+        "teacher_avatar": "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg",
+        "title": "学生最爱的博物馆",
+        "image_list":[
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg"
+        ],
+        "desc": "周末干"
+      },
+      {
+        "id": "0005",
+        "type": "school",
+        "created_at": 1533809924,
+        "teacher_name": "胡歌",
+        "teacher_avatar": "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg",
+        "title": "学生最爱的博物馆",
+        "image_list":[],
+        "desc": "周末干嘛？<p>博物馆已经免费开放啦</p><p>博物馆已经免费开放啦</p><p>博物馆已经免费开放啦</p><p>博物馆已经免费开放啦</p><p>博物馆已经免费开放啦</p>"
+      },
+      {
+        "id": "0006",
+        "type": "school",
+        "teacher_avatar": "http://pic35.photophoto.cn/20150513/0020033028860569_b.jpg",
+        "created_at": 1533809924,
+        "teacher_name": "胡歌",
+        "title": "最后一条。。。。",
+        "image_list":[
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg",
+          "http://img1.qunarzz.com/sight/p0/1712/16/165c7022105c4bb4a3.img.jpg"
+        ],
+        "desc": "周末干嘛？北京很多博物馆已经免费开放啦"
+      }
+    ]
+  }
+}
